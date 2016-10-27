@@ -1,0 +1,24 @@
+{
+  "name": "group1_tictactoe",
+  "version": "1.0.0",
+  "description": "tictactoe game that will run on the webapp",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NYIT-CSCI455-2016-Fall/group1_tictactoe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NYIT-CSCI455-2016-Fall/group1_tictactoe/issues"
+  },
+  "homepage": "https://github.com/NYIT-CSCI455-2016-Fall/group1_tictactoe#readme"
+}
